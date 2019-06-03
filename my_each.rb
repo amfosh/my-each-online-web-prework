@@ -1,6 +1,6 @@
 def my_each(array)
   i = 0 
-  while my_each(words) do |i|
+  while(i >)
     puts i
   end
 end
